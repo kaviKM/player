@@ -1,5 +1,5 @@
-str = u"this2009";  
+str = u"kavi14";  
 print str.isnumeric()
 
-str = u"23443434";
+str = u"9626";
 print str.isnumeric()
